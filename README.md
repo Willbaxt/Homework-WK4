@@ -23,12 +23,22 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
+
+```
+
 ## links
+
+```
+
 https://willbaxt.github.io/Homework-WK4/
 
-
+```
 
 ## Image
+
+```
+
+
 ![Screenshot](https://github.com/Willbaxt/Homework-WK4/blob/main/Assets/images/willbaxt.github.io_Homework-WK4_.png)
 
 
