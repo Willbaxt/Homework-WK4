@@ -1,0 +1,77 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    width: 100vw;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#question { 
+    margin-bottom: 12px;
+    font-size: 35px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.countdown  {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-weight: 900;
+}
+
+.container {
+    width: 800px;
+    max-width: 80%;
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    
+}
+
+.btn-grid {
+    
+    display: grid;
+    gap: 12px;
+}
+
+.start {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.start-button {    
+    background-color: rgb(76, 182, 67);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0px  0px  10px 2px;
+}
+
+
+
+.btn  {
+    font-size: 18px;
+    background-color: rgb(78, 45, 109);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0px  0px  10px 2px;
+}
+
+.btn:hover {
+    border-color: black;
+
+}
+
+.hide {
+    display: none;
+}
