@@ -34,12 +34,3 @@ https://willbaxt.github.io/Homework-WK4/
 
 ```
 
-## Image
-
-```
-
-
-![willbaxt github io_Homework-WK4_](https://user-images.githubusercontent.com/84749382/126717145-e360beed-5889-4109-a4e3-238c24280bc3.png)
-
-
-```
