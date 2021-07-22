@@ -39,7 +39,7 @@ https://willbaxt.github.io/Homework-WK4/
 ```
 
 
-![Screenshot](https://github.com/Willbaxt/Homework-WK4/blob/main/Assets/images/willbaxt.github.io_Homework-WK4_.png?raw=true)
+![willbaxt github io_Homework-WK4_](https://user-images.githubusercontent.com/84749382/126717145-e360beed-5889-4109-a4e3-238c24280bc3.png)
 
 
 ```
